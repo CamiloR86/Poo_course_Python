@@ -15,6 +15,7 @@ grade = input("Which grade do you belong to?: ")
 student1 = Student(name, age, grade)
 
 print(f"""
+      
         INFORMATION STUDENT: \n
         Name: {student1.name}
         Age: {student1.age}Ca
